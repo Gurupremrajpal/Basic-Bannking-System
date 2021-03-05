@@ -18,4 +18,4 @@ Flow of the Website: Home Page > View all Users > Select and View one User > Tra
 
 Made with ✌🏻 by <a href="https://www.linkedin.com/in/guruprem-singh-rajpal-67b486122/"> Guruprem Rajpal </a>
 
-<center>![](https://www.thesparksfoundationsingapore.org/images/logo_small.png) </center>
+<center> <img src= "logo_small.png"> </img></center>
