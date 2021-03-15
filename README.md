@@ -5,7 +5,6 @@
 A Web Application used to transfer money between multiple users (Project contains 10 dummy users). A dummy user can also be created.  
 
 # Tech Stack used - 
-Back-end : PHP <br>
 Front-end : HTML, CSS, Bootstrap & Javascript <br>
 Database : MySQL   
 <br>
